@@ -1,0 +1,104 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+h1{
+    background-color: white;
+    font-weight: bold;
+    color: red;
+}
+img {
+    border-style:double;
+}
+
+.cabecera{
+    color: rgb(255, 0, 0);
+    font-size:large;
+}
+
+a:visited{
+    color: white;
+}
+
+#borde{
+    border: 1px white;
+}
+
+#cabecera {
+    color:rgb(255, 0, 0);
+    text-align: center;
+    padding-left: 10px;
+    background-color:#000;
+    padding:10px;
+}
+#contenido {
+    background-color:rgb(0, 0, 0);
+    float:left;
+    height:800px;
+    width:560px;
+    padding:10px;
+    text-align: justify;
+
+}
+#lateral {
+    background-color:rgb(0, 0, 0);
+    float:left;
+    padding:10px;
+    height:800px;
+    width:1150px;
+    text-align: justify;
+
+}
+#pie { 
+    background-color:rgb(0, 0, 0);
+    clear:both;
+    color:#900;
+    padding:10px;
+    text-align:center;
+}
+
+#contenido2 {
+    background-color:rgb(0, 0, 0);
+    float:left;
+    height:800px;
+    padding:10px;
+    width: 900px;
+    text-align: justify;
+
+}
+
+
+#lateral2 {
+    background-color:rgb(0, 0, 0);
+    float:left;
+    height:800px;
+    padding:10px;
+    width:900px;
+    text-align: justify;
+
+}
+
+table{
+    table-layout: auto;
+    border-collapse: separate;
+    border-spacing: 50px 10px;
+    text-align: center;
+}
+#menu{
+    text-align: center;
+}
+
+#lateral3 {
+    background-color:rgb(0, 0, 0);
+    float:left;
+    height:800px;
+    padding:10px;
+    width:1250px;
+    text-align: center;
+}
+
+#contenedor{
+    height: 1080px;
+    width: 1920px;
+    padding: auto;
+}
